@@ -1,0 +1,33 @@
+/*
+Theme Name: twentyseventeen-child
+Theme URI: 
+Description: A child theme of twentyseventeen
+Author: Gursimran       
+Author URI: 
+Template: twentyseventeen-child
+Version: 0.1.0
+*/
+.entry-title {font-family: "Arial Black", sans-serif ;}	/* change the font type of home button on home page*/
+
+
+
+.headinghomepage{font-family: "Georgia", serif ;} /*Changes font type of heading of para on home page*/
+
+
+
+.para1homepage{
+    font-family: "Comic Sans MS", cursive, sans-serif;} /*changes font style of paragraph on home page*/
+
+img 
+   {padding:2px;
+   border:2px solid black;} /*add border to an image*/
+
+.designerclass {
+   font-family: courier;
+       text-decoration: underline; /*changes font of description of pic*/
+  
+}
+.site-info{
+	display: none;
+}
+
